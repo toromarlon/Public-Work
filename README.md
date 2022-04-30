@@ -12,3 +12,6 @@ https://colab.research.google.com/drive/11knsgC7nlqb5VdNB-mPyWt7NGOqXJlZv#scroll
 
 **Final overleaf report**
 https://www.overleaf.com/project/625f4cfea25d9896c9db89d7
+
+**Final Diff EQ slideshow**
+https://docs.google.com/presentation/d/1nzzg6SYH6yMKX3_rh_LPEUBivEuctsA4TZwHDeBwZjQ/edit?usp=sharing
