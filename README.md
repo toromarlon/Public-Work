@@ -1,6 +1,6 @@
 # Public-Work
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/1200px-Lorenz_attractor_yb.svg.png">
 
 **Homework writeup 1**
 Spring Mass Model - https://colab.research.google.com/github/toromarlon/Diff-EQ/blob/main/Spring_mass.ipynb
